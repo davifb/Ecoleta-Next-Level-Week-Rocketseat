@@ -1,4 +1,4 @@
-![icon_ecoleta](https://user-images.githubusercontent.com/62728109/83677850-2cf1e200-a5b3-11ea-8d04-f91369115c62.png)
+![icon_ecoleta](https://raw.githubusercontent.com/davifb/nlw/master/public/assets/logo.svg)
 
 O **Ecoleta** é um projeto (aplicação web) desenvolvido durante a Next Level Week da [Rocketseat](https://rocketseat.com.br/)
 
