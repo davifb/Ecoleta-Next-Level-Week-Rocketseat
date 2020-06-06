@@ -4,10 +4,10 @@ A aplicação consiste em um marketplace de coleta de resíduos, onde pessoas (f
 
 #Bibliotecas e tecnologias utilizadas:
 
-* **HTML;
-* **CSS;
-* **JavaScript;
-* **Node.JS;
-* **Utilização da API de Localidades do IBGE
-* **Git Bash;
-* **SQLite.
+* **HTML;**
+* **CSS;**
+* **JavaScript;**
+* **Node.JS;**
+* **Utilização da API de Localidades do IBGE**
+* **Git Bash;**
+* **SQLite.**
